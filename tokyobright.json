@@ -23,7 +23,7 @@
 		"INTERACTIVE_NORMAL": ["#5f647e", "#999999"],
 		"TEXT_NORMAL": ["#b1bae6", "#000000"],
 		"TEXT_MUTED": ["#565f89", "#999999"],
-		"TEXT_LINK": ["#7aa2f7", "#000000"]
+		"TEXT_LINK": ["#7aa2f7", "#FFFFFF"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#bfbfbf",
